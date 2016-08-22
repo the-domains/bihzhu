@@ -1,28 +1,14 @@
-typography_spectrum: 0.8457013524603099
+layout_spectrum: 0.22988394531421363
+typography_spectrum: 0.6239993718918413
 color:
+  brandStrength: 0.6555819038767368
+  lightness: 0.2540694356430322
+  saturation: 0.861211551586166
+  rhythmicContrast: 0.6150555417407304
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.38820928055793047
-  lightness: 0.7934342450462282
-  saturation: 0.39092959999106824
-  rhythmicContrast: 0.409504106733948
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.47998569649644196
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: Bihzhu
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-purpose: []
