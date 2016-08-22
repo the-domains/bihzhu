@@ -1,4 +1,3 @@
-layout_spectrum: 0.22988394531421363
 typography_spectrum: 0.6239993718918413
 color:
   brandStrength: 0.6555819038767368
@@ -11,8 +10,10 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.22988394531421363
 name: Bihzhu
 navigation:
   - name: About
     id: 30925bbe-5784-498d-8750-4bb4f3d4e8a8
     type: content
+title: 'Love, Light, & Sound'
